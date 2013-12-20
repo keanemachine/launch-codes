@@ -19,6 +19,6 @@ I’ve provided the Autohotkey script in Github so you can use it as a starting 
 
 Here's what the help dialog looks like:
 
-![Imgur](http://i.imgur.com/LcprDtl "Launch Codes help dialog")
+![Launch Codes Help Dialog](https://raw.github.com/keanemachine/launch-codes/master/launch%20codes%20help.PNG "Launch Codes help dialog")
 
 Enjoy!
