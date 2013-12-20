@@ -8,7 +8,7 @@ I call the file **Launch Codes**, as it both launches apps, and it is launched a
 
 I’ve provided the Autohotkey script in Github so you can use it as a starting point to build your own custom scripts. Use it as you see fit, all of the tasks within are collated or modified from stuff in the Autohotkey help file (which you get when you download the AHK download bundle), or from the extremely helpful [Autohotkey forum](www.autohotkey.com/board/).
 
-## What tasks do I use it for?
+## What tasks can you use it for?
 
 * Launching common apps, like Chrome and Notepad, with just two key presses.
 * Reducing my email address to three letters, which then expands to my full address. Very useful for repetitive logins!
