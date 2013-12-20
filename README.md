@@ -17,5 +17,9 @@ I’ve provided the Autohotkey script in Github so you can use it as a starting 
 * Print entire screen to clipboard with three keystrokes.
 * Help message box for all of the above.
 
+Here's what the help dialog looks like:
+
+![Launch codes hwlp dialog](http://patrickkeane.files.wordpress.com/2013/12/launch-codes-help.png "Launch Codes help dialog")
+
 
 Enjoy!
