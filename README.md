@@ -1,5 +1,7 @@
 # Launch Codes: Automate Tasks, App Launches & More for Windows
 
+[Oringinally posted on my personal blog](http://patrickkeane.me/launch-codes-automate-tasks-app-launches-more-for-windows/).
+
 There’s a very useful, lightweight and simple-to-use productivity utility for windows called [AutoHotKey](www.autohotkey.com). I used it to create a simple script to save time for myself with repetitive tasks.
 
 I call the file **Launch Codes**, as it both launches apps, and it is launched automatically when Windows logs in. I achieve this by saving the .ahk file in the following location:
