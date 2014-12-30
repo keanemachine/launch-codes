@@ -21,4 +21,6 @@ Here's what the help dialog looks like:
 
 ![Launch Codes Help Dialog](https://raw.github.com/keanemachine/launch-codes/master/launch%20codes%20help.PNG "Launch Codes help dialog")
 
+[Oringinally posted on my personal blog](http://patrickkeane.me/launch-codes-automate-tasks-app-launches-more-for-windows/).
+
 Enjoy!
